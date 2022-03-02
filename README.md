@@ -1,5 +1,5 @@
 # Collection of my public presentations
-Collection of my presentations on various topics like Cybersecurity, python, cloud security, devsecops and so on...
+Collection of my presentations and useful presentation from various known public sources on various topics like Cybersecurity, python, cloud security, devsecops and so on...
 
 I will keep adding more presentations which I will present publicly here. Stay tuned for more security focused slides.
 
@@ -33,6 +33,8 @@ I will keep adding more presentations which I will present publicly here. Stay t
 ### Web Security
 1. [Perl basics for Pentesters: Part 1](web-seucrity/perl-basics-for-pentesters-Part-1.pdf)
 2. [Perl basics for Pentesters: Part 2](web-seucrity/perl-basics-for-pentesters-Part-2.pdf)
+
+### Security Presentations from various public sources
 
 ### Coming Soon below categories
 1. DevSecOps
