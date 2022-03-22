@@ -8,10 +8,11 @@ I will keep adding more presentations which I will present publicly here. Stay t
 ### Tech Focused
 1. [5 skills for IT Professionals](5-skills-for-IT-Professional.pdf)
 2. [7 Technical skills for software developers](7-technical-skills-for-software-developer.pdf)
-3. [Git Fundamentals for Everyone](Git-Fundamentals-Flexmind.pdf)
-4. [How to build career in Cybersecurity](How-to-build-career-in-CyberSecurity.pdf)
-5. [Regular Expression for Everyone](Regular-Expression-for-Everyone.pdf)
-6. [Social Engineering Basics](Social-Engineering-Basics.pdf)
+3. [Cybersecurity Roadmap for beginners](cybersecurity-roadmap-for-beginners.pdf)
+4. [Git Fundamentals for Everyone](Git-Fundamentals-Flexmind.pdf)
+5. [How to build career in Cybersecurity](How-to-build-career-in-CyberSecurity.pdf)
+6. [Regular Expression for Everyone](Regular-Expression-for-Everyone.pdf)
+7. [Social Engineering Basics](Social-Engineering-Basics.pdf)
 
 ### Cloud Security
 1. [Cloud Computing Overview](cloud-security/cloud-computing-overview.pdf)
